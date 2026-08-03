@@ -13,17 +13,16 @@ Learn.
 Improve.
 Repeat.
 
-## Roadmap
+## 🗺️ Roadmap
 
-- Foundation
-- Languages
-- Communication
-- Mathematics
-- Computer Science
-- Software Engineering
-- Artificial Intelligence
-- Full-Stack Development
-- Open Source
-- Entrepreneurship
-- Career
-- Projects
+- 🏗️ Foundation
+- 🌍 Languages
+- 🗣️ Communication
+- 📚 Science & General Education
+- ⚙️ Software Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Development
+- 🌎 Open Source
+- 💼 Entrepreneurship
+- 🎯 Career
+- 🚀 Projects
