@@ -14,20 +14,22 @@ Build a strong programming foundation that can be applied across multiple progra
 
 ## 📚 Topics
 
-- Introduction to Programming
-- Variables
-- Data Types
+- Introduction
+- Python Fundamentals
+- Syntax
+- Variables & Data Types
 - Operators
-- Input & Output
 - Conditions
 - Loops
 - Functions
-- Arrays
-- Objects
-- Error Handling
-- Algorithms Basics
-- Problem Solving
-- Debugging
+- Data Structures
+- Modules & Packages
+- File Handling
+- Exceptions
+- Object-Oriented Programming
+- Virtual Environments
+- Package Management
+- Testing
 - Best Practices
 
 ---
